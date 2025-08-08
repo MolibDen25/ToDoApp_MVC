@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== MAIN MENU ===",
+    "main_menu_notes": "1. Open notes",
+    "main_menu_language": "2. Change language 🌐",
+    "main_menu_exit": "0. Exit program",
+
+    "note_menu_title": "=== LIST OF NOTES ===",
+    "note_menu_untitle": "Untitled",
+    "note_menu_add": "+. Add new note",
+    "note_menu_cross": "~№. Cross/uncross note",
+    "note_menu_delete": "-№. Delete note",
+    "note_menu_back": "0. Back to main menu",
+
+    "note_title": "=== NOTE",
+    "note_title_change": "%0. Change note title",
+    "note_add": "+. Add new line",
+    "note_cross": "~№. Cross/uncross line",
+    "note_delete": "-№. Delete line",
+    "note_back": "0. Back to notes menu",
+
+    "prompt_choice": "Your choice: ",
+    "prompt_enter_note_title": "Enter new note title: ",
+    "prompt_current_note_title": "Current note title: ",
+    "prompt_new_note_title": "New note title (Esc — cancel): ",
+    "prompt_enter_text": "Enter line text: ",
+    "prompt_current_text": "Current text: ",
+    "prompt_new_text": "New text (Esc — cancel): ",
+
+    "lang_menu_title": "=== SELECT LANGUAGE ===",
+    "lang_menu_back": "0. Back to main menu"
+}

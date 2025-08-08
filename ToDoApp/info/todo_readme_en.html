@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>ToDoApp MVC — README (English)</title>
+        <style>
+        body{font-family: Arial, Helvetica, sans-serif; margin: 24px; line-height:1.5; color:#222}
+        header{display:flex;justify-content:space-between;align-items:center}
+        h1{margin-bottom:0}
+        .nav{margin-top:8px}
+        img{max-width:100%;border:1px solid #ddd;padding:6px;background:#fff;margin-bottom:12px}
+        .section{margin-top:18px}kbd{background:#eee;border-radius:4px;padding:2px 6px;border:1px solid #ccc}
+        .card{background:#fafafa;padding:12px;border:1px solid #eee;border-radius:6px}
+        </style>
+    </head>
+    <body>
+        <header>
+            <div>
+                <h1>ToDoApp MVC — README</h1>
+                <div class="nav">
+                    <a href="todo_readme_uk.html">Переключити на українську</a>
+                </div>
+            </div>
+            <div style="text-align:right;color:#666">C# console • MVC • notes/*.txt</div>
+        </header>
+
+        <div class="section card">
+            <h2>Summary</h2>
+            <p>
+                Console app for managing <strong>ToDo</strong> notes using an <strong>MVC</strong> structure. 
+                Data are stored in the <code>notes</code> folder as <code>.txt</code> files. 
+                The app supports crossing-out, editing and deleting notes and lines.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>Project structure</h2>
+            <pre class="card">ToDoApp/
+├── Controllers/    # Menu and action handling logic
+├── info/           # README folder
+├── Views/          # Responsible for console display
+├── Program.cs      # Entry point
+└── notes/          # Saved notes (created automatically)
+            </pre>
+        </div>
+
+        <div class="section">
+            <h2>Run</h2>
+            <div class="card">
+                <p>1. Install .NET SDK (6.0+). Check in terminal with:</p>
+                <pre><code>dotnet --version</code></pre>
+                <p>2. On Windows using a shortcut <code>ToDoApp</code> or <code>run_todo.bat</code>.</p>
+                <p>Or in terminal:</p>
+                <pre><code>cd ToDoApp
+dotnet run</code></pre>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Menus (UI samples)</h2>
+            <p>Below are samples of the console menus:</p>
+            <h3>1) Main menu</h3>
+            <img src="assets/menu_main.png" alt="Main menu">
+            <h3>2) Notes list menu</h3>
+            <img src="assets/menu_notes.png" alt="Notes menu">
+            <h3>3) Note lines menu</h3>
+            <img src="assets/menu_note_open.png" alt="Note lines menu">
+        </div>
+
+        <div class="section">
+            <h2>Saved data example</h2>
+            <p>Example file <code>notes/2.txt</code>:</p>
+            <img src="assets/saved_example.png" alt="Saved data example">
+        </div>
+
+        <div class="section">
+            <h2>Controls</h2>
+            <div class="card">
+                <p>Main keys and commands:</p>
+                <ul>
+                    <li><kbd>1</kbd> — select item / note</li>
+                    <li><kbd>+</kbd> — add a new note / line</li>
+                    <li><kbd>~№</kbd> — cross/un-cross note or line</li>
+                    <li><kbd>-№</kbd> — delete note or line</li>
+                    <li><kbd>Enter</kbd> — save edit</li>
+                    <li><kbd>Esc</kbd> — cancel edit</li>
+                </ul>
+            </div>
+        </div>
+
+        <footer style="margin-top:30px;color:#666">README · Ukrainian & English versions</footer>
+        <footer style="margin-top:30px;color:#666">This project is licensed under the MIT License - see the [LICENSE] file for details.</footer>
+    </body>
+</html>
