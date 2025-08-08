@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== 主菜单 ===",
+    "main_menu_notes": "1. 打开笔记",
+    "main_menu_language": "2. 更改语言 🌐",
+    "main_menu_exit": "0. 退出程序",
+
+    "note_menu_title": "=== 笔记列表 ===",
+    "note_menu_untitle": "无标题",
+    "note_menu_add": "+. 添加新笔记",
+    "note_menu_cross": "~№. 划掉/取消划掉笔记",
+    "note_menu_delete": "-№. 删除笔记",
+    "note_menu_back": "0. 返回主菜单",
+
+    "note_title": "=== 笔记 ===",
+    "note_title_change": "%0. 更改笔记标题",
+    "note_add": "+. 添加新行",
+    "note_cross": "~№. 划掉/取消划掉行",
+    "note_delete": "-№. 删除行",
+    "note_back": "0. 返回笔记菜单",
+
+    "prompt_choice": "你的选择: ",
+    "prompt_enter_note_title": "输入新笔记标题: ",
+    "prompt_current_note_title": "当前笔记标题: ",
+    "prompt_new_note_title": "新笔记标题 (Esc — 取消): ",
+    "prompt_enter_text": "输入行文本: ",
+    "prompt_current_text": "当前文本: ",
+    "prompt_new_text": "新文本 (Esc — 取消): ",
+
+    "lang_menu_title": "=== 选择语言 ===",
+    "lang_menu_back": "0. 返回主菜单"
+}

@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== 메인 메뉴 ===",
+    "main_menu_notes": "1. 메모 열기",
+    "main_menu_language": "2. 언어 변경 🌐",
+    "main_menu_exit": "0. 프로그램 종료",
+
+    "note_menu_title": "=== 메모 목록 ===",
+    "note_menu_untitle": "제목 없음",
+    "note_menu_add": "+. 새 메모 추가",
+    "note_menu_cross": "~№. 메모 취소/복원",
+    "note_menu_delete": "-№. 메모 삭제",
+    "note_menu_back": "0. 메인 메뉴로 돌아가기",
+
+    "note_title": "=== 메모",
+    "note_title_change": "%0. 메모 제목 변경",
+    "note_add": "+. 새 줄 추가",
+    "note_cross": "~№. 줄 취소/복원",
+    "note_delete": "-№. 줄 삭제",
+    "note_back": "0. 메모 메뉴로 돌아가기",
+
+    "prompt_choice": "선택하세요: ",
+    "prompt_enter_note_title": "새 메모 제목 입력: ",
+    "prompt_current_note_title": "현재 메모 제목: ",
+    "prompt_new_note_title": "새 메모 제목 (Esc — 취소): ",
+    "prompt_enter_text": "줄 텍스트 입력: ",
+    "prompt_current_text": "현재 텍스트: ",
+    "prompt_new_text": "새 텍스트 (Esc — 취소): ",
+
+    "lang_menu_title": "=== 언어 선택 ===",
+    "lang_menu_back": "0. 메인 메뉴로 돌아가기"
+}

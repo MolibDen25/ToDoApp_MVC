@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== HOOFDMENU ===",
+    "main_menu_notes": "1. Notities openen",
+    "main_menu_language": "2. Taal wijzigen 🌐",
+    "main_menu_exit": "0. Programma afsluiten",
+
+    "note_menu_title": "=== LIJST MET NOTITIES ===",
+    "note_menu_untitle": "Zonder titel",
+    "note_menu_add": "+. Nieuwe notitie toevoegen",
+    "note_menu_cross": "~№. Notitie doorhalen/herstellen",
+    "note_menu_delete": "-№. Notitie verwijderen",
+    "note_menu_back": "0. Terug naar hoofdmenu",
+
+    "note_title": "=== NOTITIE",
+    "note_title_change": "%0. Notitietitel wijzigen",
+    "note_add": "+. Nieuwe regel toevoegen",
+    "note_cross": "~№. Regel doorhalen/herstellen",
+    "note_delete": "-№. Regel verwijderen",
+    "note_back": "0. Terug naar notitiemenu",
+
+    "prompt_choice": "Uw keuze: ",
+    "prompt_enter_note_title": "Voer nieuwe notitietitel in: ",
+    "prompt_current_note_title": "Huidige notitietitel: ",
+    "prompt_new_note_title": "Nieuwe notitietitel (Esc — annuleren): ",
+    "prompt_enter_text": "Voer regeltekst in: ",
+    "prompt_current_text": "Huidige tekst: ",
+    "prompt_new_text": "Nieuwe tekst (Esc — annuleren): ",
+
+    "lang_menu_title": "=== SELECTEER TAAL ===",
+    "lang_menu_back": "0. Terug naar hoofdmenu"
+}

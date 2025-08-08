@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== ANA MENÜ ===",
+    "main_menu_notes": "1. Notları aç",
+    "main_menu_language": "2. Dili değiştir 🌐",
+    "main_menu_exit": "0. Programdan çık",
+
+    "note_menu_title": "=== NOT LİSTESİ ===",
+    "note_menu_untitle": "Başlıksız",
+    "note_menu_add": "+. Yeni not ekle",
+    "note_menu_cross": "~№. Notu çiz/geri al",
+    "note_menu_delete": "-№. Notu sil",
+    "note_menu_back": "0. Ana menüye dön",
+
+    "note_title": "=== NOT",
+    "note_title_change": "%0. Not başlığını değiştir",
+    "note_add": "+. Yeni satır ekle",
+    "note_cross": "~№. Satırı çiz/geri al",
+    "note_delete": "-№. Satırı sil",
+    "note_back": "0. Not menüsüne dön",
+
+    "prompt_choice": "Seçiminiz: ",
+    "prompt_enter_note_title": "Yeni not başlığını girin: ",
+    "prompt_current_note_title": "Mevcut not başlığı: ",
+    "prompt_new_note_title": "Yeni not başlığı (Esc — iptal): ",
+    "prompt_enter_text": "Satır metnini girin: ",
+    "prompt_current_text": "Mevcut metin: ",
+    "prompt_new_text": "Yeni metin (Esc — iptal): ",
+
+    "lang_menu_title": "=== DİL SEÇ ===",
+    "lang_menu_back": "0. Ana menüye dön"
+}

@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== GLAVNI MENI ===",
+    "main_menu_notes": "1. Odpri zapiske",
+    "main_menu_language": "2. Spremeni jezik 🌐",
+    "main_menu_exit": "0. Izhod iz programa",
+
+    "note_menu_title": "=== SEZNAM ZAPISKOV ===",
+    "note_menu_untitle": "Brez naslova",
+    "note_menu_add": "+. Dodaj nov zapisek",
+    "note_menu_cross": "~№. Prečrtaj/odprečrtaj zapisek",
+    "note_menu_delete": "-№. Izbriši zapisek",
+    "note_menu_back": "0. Nazaj na glavni meni",
+
+    "note_title": "=== ZAPISEK",
+    "note_title_change": "%0. Spremeni naslov zapiska",
+    "note_add": "+. Dodaj novo vrstico",
+    "note_cross": "~№. Prečrtaj/odprečrtaj vrstico",
+    "note_delete": "-№. Izbriši vrstico",
+    "note_back": "0. Nazaj na meni zapiskov",
+
+    "prompt_choice": "Vaša izbira: ",
+    "prompt_enter_note_title": "Vnesite nov naslov zapiska: ",
+    "prompt_current_note_title": "Trenutni naslov zapiska: ",
+    "prompt_new_note_title": "Nov naslov zapiska (Esc — prekliči): ",
+    "prompt_enter_text": "Vnesite besedilo vrstice: ",
+    "prompt_current_text": "Trenutno besedilo: ",
+    "prompt_new_text": "Novo besedilo (Esc — prekliči): ",
+
+    "lang_menu_title": "=== IZBERITE JEZIK ===",
+    "lang_menu_back": "0. Nazaj na glavni meni"
+}

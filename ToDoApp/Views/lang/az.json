@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== ƏSAS MENYU ===",
+    "main_menu_notes": "1. Qeydləri aç",
+    "main_menu_language": "2. Dili dəyiş 🌐",
+    "main_menu_exit": "0. Proqramdan çıx",
+
+    "note_menu_title": "=== QEYDİYYAT SİYAHISI ===",
+    "note_menu_untitle": "Başlıqsız",
+    "note_menu_add": "+. Yeni qeyd əlavə et",
+    "note_menu_cross": "~№. Qeydi işarələ/işarəni sil",
+    "note_menu_delete": "-№. Qeydi sil",
+    "note_menu_back": "0. Əsas menyuya qayıt",
+
+    "note_title": "=== QEYD",
+    "note_title_change": "%0. Qeyd başlığını dəyiş",
+    "note_add": "+. Yeni sətir əlavə et",
+    "note_cross": "~№. Sətiri işarələ/işarəni sil",
+    "note_delete": "-№. Sətiri sil",
+    "note_back": "0. Qeydlər menyusuna qayıt",
+
+    "prompt_choice": "Seçiminiz: ",
+    "prompt_enter_note_title": "Yeni qeyd başlığını daxil edin: ",
+    "prompt_current_note_title": "Cari qeyd başlığı: ",
+    "prompt_new_note_title": "Yeni qeyd başlığı (Esc — ləğv et): ",
+    "prompt_enter_text": "Sətir mətnini daxil edin: ",
+    "prompt_current_text": "Cari mətn: ",
+    "prompt_new_text": "Yeni mətn (Esc — ləğv et): ",
+
+    "lang_menu_title": "=== DİLİ SEÇİN ===",
+    "lang_menu_back": "0. Əsas menyuya qayıt"
+}

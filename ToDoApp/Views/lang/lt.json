@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== PAGRINDINIS MENIU ===",
+    "main_menu_notes": "1. Atidaryti užrašus",
+    "main_menu_language": "2. Keisti kalbą 🌐",
+    "main_menu_exit": "0. Išeiti iš programos",
+
+    "note_menu_title": "=== UŽRAŠŲ SĄRAŠAS ===",
+    "note_menu_untitle": "Be pavadinimo",
+    "note_menu_add": "+. Pridėti naują užrašą",
+    "note_menu_cross": "~№. Perbraukti/atšaukti užrašą",
+    "note_menu_delete": "-№. Ištrinti užrašą",
+    "note_menu_back": "0. Grįžti į pagrindinį meniu",
+
+    "note_title": "=== UŽRAŠAS",
+    "note_title_change": "%0. Pakeisti užrašo pavadinimą",
+    "note_add": "+. Pridėti naują eilutę",
+    "note_cross": "~№. Perbraukti/atšaukti eilutę",
+    "note_delete": "-№. Ištrinti eilutę",
+    "note_back": "0. Grįžti į užrašų meniu",
+
+    "prompt_choice": "Jūsų pasirinkimas: ",
+    "prompt_enter_note_title": "Įveskite naują užrašo pavadinimą: ",
+    "prompt_current_note_title": "Dabartinis užrašo pavadinimas: ",
+    "prompt_new_note_title": "Naujas užrašo pavadinimas (Esc — atšaukti): ",
+    "prompt_enter_text": "Įveskite eilutės tekstą: ",
+    "prompt_current_text": "Dabartinis tekstas: ",
+    "prompt_new_text": "Naujas tekstas (Esc — atšaukti): ",
+
+    "lang_menu_title": "=== PASIRINKITE KALBĄ ===",
+    "lang_menu_back": "0. Grįžti į pagrindinį meniu"
+}

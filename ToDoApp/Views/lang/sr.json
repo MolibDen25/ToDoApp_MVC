@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== GLAVNI MENI ===",
+    "main_menu_notes": "1. Otvori beleške",
+    "main_menu_language": "2. Promeni jezik 🌐",
+    "main_menu_exit": "0. Izlaz iz programa",
+
+    "note_menu_title": "=== SPISAK BELEŠKI ===",
+    "note_menu_untitle": "Bez naslova",
+    "note_menu_add": "+. Dodaj novu belešku",
+    "note_menu_cross": "~№. Precrtaj/poništi precrtavanje beleške",
+    "note_menu_delete": "-№. Obriši belešku",
+    "note_menu_back": "0. Nazad na glavni meni",
+
+    "note_title": "=== BELEŠKA",
+    "note_title_change": "%0. Promeni naslov beleške",
+    "note_add": "+. Dodaj novi red",
+    "note_cross": "~№. Precrtaj/poništi precrtavanje reda",
+    "note_delete": "-№. Obriši red",
+    "note_back": "0. Nazad na meni beleški",
+
+    "prompt_choice": "Vaš izbor: ",
+    "prompt_enter_note_title": "Unesite novi naslov beleške: ",
+    "prompt_current_note_title": "Trenutni naslov beleške: ",
+    "prompt_new_note_title": "Novi naslov beleške (Esc — otkaži): ",
+    "prompt_enter_text": "Unesite tekst reda: ",
+    "prompt_current_text": "Trenutni tekst: ",
+    "prompt_new_text": "Novi tekst (Esc — otkaži): ",
+
+    "lang_menu_title": "=== IZABERITE JEZIK ===",
+    "lang_menu_back": "0. Nazad na glavni meni"
+}

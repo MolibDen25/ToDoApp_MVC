@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== MENU CHÍNH ===",
+    "main_menu_notes": "1. Mở ghi chú",
+    "main_menu_language": "2. Thay đổi ngôn ngữ 🌐",
+    "main_menu_exit": "0. Thoát chương trình",
+
+    "note_menu_title": "=== DANH SÁCH GHI CHÚ ===",
+    "note_menu_untitle": "Không tiêu đề",
+    "note_menu_add": "+. Thêm ghi chú mới",
+    "note_menu_cross": "~№. Gạch bỏ/khôi phục ghi chú",
+    "note_menu_delete": "-№. Xóa ghi chú",
+    "note_menu_back": "0. Quay lại menu chính",
+
+    "note_title": "=== GHI CHÚ",
+    "note_title_change": "%0. Thay đổi tiêu đề ghi chú",
+    "note_add": "+. Thêm dòng mới",
+    "note_cross": "~№. Gạch bỏ/khôi phục dòng",
+    "note_delete": "-№. Xóa dòng",
+    "note_back": "0. Quay lại menu ghi chú",
+
+    "prompt_choice": "Lựa chọn của bạn: ",
+    "prompt_enter_note_title": "Nhập tiêu đề ghi chú mới: ",
+    "prompt_current_note_title": "Tiêu đề ghi chú hiện tại: ",
+    "prompt_new_note_title": "Tiêu đề ghi chú mới (Esc — hủy): ",
+    "prompt_enter_text": "Nhập nội dung dòng: ",
+    "prompt_current_text": "Nội dung hiện tại: ",
+    "prompt_new_text": "Nội dung mới (Esc — hủy): ",
+
+    "lang_menu_title": "=== CHỌN NGÔN NGỮ ===",
+    "lang_menu_back": "0. Quay lại menu chính"
+}

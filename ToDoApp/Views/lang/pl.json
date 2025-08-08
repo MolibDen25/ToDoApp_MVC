@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== MENU GŁÓWNE ===",
+    "main_menu_notes": "1. Otwórz notatki",
+    "main_menu_language": "2. Zmień język 🌐",
+    "main_menu_exit": "0. Zakończ program",
+
+    "note_menu_title": "=== LISTA NOTATEK ===",
+    "note_menu_untitle": "Bez tytułu",
+    "note_menu_add": "+. Dodaj nową notatkę",
+    "note_menu_cross": "~№. Przekreśl/usuń przekreślenie notatki",
+    "note_menu_delete": "-№. Usuń notatkę",
+    "note_menu_back": "0. Powrót do menu głównego",
+
+    "note_title": "=== NOTATKA ===",
+    "note_title_change": "%0. Zmień tytuł notatki",
+    "note_add": "+. Dodaj nową linię",
+    "note_cross": "~№. Przekreśl/usuń przekreślenie linii",
+    "note_delete": "-№. Usuń linię",
+    "note_back": "0. Powrót do menu notatek",
+
+    "prompt_choice": "Twój wybór: ",
+    "prompt_enter_note_title": "Wpisz nowy tytuł notatki: ",
+    "prompt_current_note_title": "Obecny tytuł notatki: ",
+    "prompt_new_note_title": "Nowy tytuł notatki (Esc — anuluj): ",
+    "prompt_enter_text": "Wpisz tekst linii: ",
+    "prompt_current_text": "Obecny tekst: ",
+    "prompt_new_text": "Nowy tekst (Esc — anuluj): ",
+
+    "lang_menu_title": "=== WYBÓR JĘZYKA ===",
+    "lang_menu_back": "0. Powrót do menu głównego"
+}

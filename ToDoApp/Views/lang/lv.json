@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== GALVENĀ IZVĒLNE ===",
+    "main_menu_notes": "1. Atvērt piezīmes",
+    "main_menu_language": "2. Mainīt valodu 🌐",
+    "main_menu_exit": "0. Iziet no programmas",
+
+    "note_menu_title": "=== PIEZĪMJU SARAKSTS ===",
+    "note_menu_untitle": "Bez nosaukuma",
+    "note_menu_add": "+. Pievienot jaunu piezīmi",
+    "note_menu_cross": "~№. Pārsvītrot/atcelt pārsvītrojumu piezīmei",
+    "note_menu_delete": "-№. Dzēst piezīmi",
+    "note_menu_back": "0. Atpakaļ uz galveno izvēlni",
+
+    "note_title": "=== PIEZĪME",
+    "note_title_change": "%0. Mainīt piezīmes nosaukumu",
+    "note_add": "+. Pievienot jaunu rindu",
+    "note_cross": "~№. Pārsvītrot/atcelt pārsvītrojumu rindai",
+    "note_delete": "-№. Dzēst rindu",
+    "note_back": "0. Atpakaļ uz piezīmju izvēlni",
+
+    "prompt_choice": "Jūsu izvēle: ",
+    "prompt_enter_note_title": "Ievadiet jaunu piezīmes nosaukumu: ",
+    "prompt_current_note_title": "Pašreizējais piezīmes nosaukums: ",
+    "prompt_new_note_title": "Jauns piezīmes nosaukums (Esc — atcelt): ",
+    "prompt_enter_text": "Ievadiet rindas tekstu: ",
+    "prompt_current_text": "Pašreizējais teksts: ",
+    "prompt_new_text": "Jauns teksts (Esc — atcelt): ",
+
+    "lang_menu_title": "=== IZVĒLIETIES VALODU ===",
+    "lang_menu_back": "0. Atpakaļ uz galveno izvēlni"
+}

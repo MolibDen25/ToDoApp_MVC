@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== HOVEDMENU ===",
+    "main_menu_notes": "1. Åbn noter",
+    "main_menu_language": "2. Skift sprog 🌐",
+    "main_menu_exit": "0. Afslut programmet",
+
+    "note_menu_title": "=== LISTE OVER NOTER ===",
+    "note_menu_untitle": "Uden titel",
+    "note_menu_add": "+. Tilføj ny note",
+    "note_menu_cross": "~№. Kryds/ophæv kryds på note",
+    "note_menu_delete": "-№. Slet note",
+    "note_menu_back": "0. Tilbage til hovedmenu",
+
+    "note_title": "=== NOTE",
+    "note_title_change": "%0. Skift notetitlen",
+    "note_add": "+. Tilføj ny linje",
+    "note_cross": "~№. Kryds/ophæv kryds på linje",
+    "note_delete": "-№. Slet linje",
+    "note_back": "0. Tilbage til notemenu",
+
+    "prompt_choice": "Dit valg: ",
+    "prompt_enter_note_title": "Indtast ny notetitel: ",
+    "prompt_current_note_title": "Nuværende notetitel: ",
+    "prompt_new_note_title": "Ny notetitel (Esc — annuller): ",
+    "prompt_enter_text": "Indtast linjetekst: ",
+    "prompt_current_text": "Nuværende tekst: ",
+    "prompt_new_text": "Ny tekst (Esc — annuller): ",
+
+    "lang_menu_title": "=== VÆLG SPROG ===",
+    "lang_menu_back": "0. Tilbage til hovedmenu"
+}

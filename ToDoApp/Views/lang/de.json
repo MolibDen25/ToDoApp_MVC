@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== HAUPTMENÜ ===",
+    "main_menu_notes": "1. Notizen öffnen",
+    "main_menu_language": "2. Sprache ändern 🌐",
+    "main_menu_exit": "0. Programm beenden",
+
+    "note_menu_title": "=== LISTE DER NOTIZEN ===",
+    "note_menu_untitle": "Ohne Titel",
+    "note_menu_add": "+. Neue Notiz hinzufügen",
+    "note_menu_cross": "~№. Notiz durchstreichen/wiederherstellen",
+    "note_menu_delete": "-№. Notiz löschen",
+    "note_menu_back": "0. Zurück zum Hauptmenü",
+
+    "note_title": "=== NOTIZ ===",
+    "note_title_change": "%0. Notiztitel ändern",
+    "note_add": "+. Neue Zeile hinzufügen",
+    "note_cross": "~№. Zeile durchstreichen/wiederherstellen",
+    "note_delete": "-№. Zeile löschen",
+    "note_back": "0. Zurück zum Notizmenü",
+
+    "prompt_choice": "Ihre Auswahl: ",
+    "prompt_enter_note_title": "Neuen Notiztitel eingeben: ",
+    "prompt_current_note_title": "Aktueller Notiztitel: ",
+    "prompt_new_note_title": "Neuer Notiztitel (Esc — abbrechen): ",
+    "prompt_enter_text": "Zeilentext eingeben: ",
+    "prompt_current_text": "Aktueller Text: ",
+    "prompt_new_text": "Neuer Text (Esc — abbrechen): ",
+
+    "lang_menu_title": "=== SPRACHE WÄHLEN ===",
+    "lang_menu_back": "0. Zurück zum Hauptmenü"
+}

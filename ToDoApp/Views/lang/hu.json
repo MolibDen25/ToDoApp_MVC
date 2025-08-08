@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== FŐMENÜ ===",
+    "main_menu_notes": "1. Jegyzetek megnyitása",
+    "main_menu_language": "2. Nyelv módosítása 🌐",
+    "main_menu_exit": "0. Kilépés a programból",
+
+    "note_menu_title": "=== JEGYZETEK LISTÁJA ===",
+    "note_menu_untitle": "Cím nélkül",
+    "note_menu_add": "+. Új jegyzet hozzáadása",
+    "note_menu_cross": "~№. Jegyzet áthúzása/visszaállítása",
+    "note_menu_delete": "-№. Jegyzet törlése",
+    "note_menu_back": "0. Vissza a főmenübe",
+
+    "note_title": "=== JEGYZET ===",
+    "note_title_change": "%0. Jegyzet címének módosítása",
+    "note_add": "+. Új sor hozzáadása",
+    "note_cross": "~№. Sor áthúzása/visszaállítása",
+    "note_delete": "-№. Sor törlése",
+    "note_back": "0. Vissza a jegyzetek menübe",
+
+    "prompt_choice": "Választása: ",
+    "prompt_enter_note_title": "Adja meg az új jegyzet címét: ",
+    "prompt_current_note_title": "Jelenlegi jegyzet címe: ",
+    "prompt_new_note_title": "Új jegyzet cím (Esc — mégse): ",
+    "prompt_enter_text": "Adja meg a sor szövegét: ",
+    "prompt_current_text": "Jelenlegi szöveg: ",
+    "prompt_new_text": "Új szöveg (Esc — mégse): ",
+
+    "lang_menu_title": "=== NYELV KIVÁLASZTÁSA ===",
+    "lang_menu_back": "0. Vissza a főmenübe"
+}

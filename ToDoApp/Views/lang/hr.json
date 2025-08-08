@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== GLAVNI IZBORNIK ===",
+    "main_menu_notes": "1. Otvori bilješke",
+    "main_menu_language": "2. Promijeni jezik 🌐",
+    "main_menu_exit": "0. Izlaz iz programa",
+
+    "note_menu_title": "=== POPIS BILJEŠKI ===",
+    "note_menu_untitle": "Bez naslova",
+    "note_menu_add": "+. Dodaj novu bilješku",
+    "note_menu_cross": "~№. Prekriži/odkriži bilješku",
+    "note_menu_delete": "-№. Izbriši bilješku",
+    "note_menu_back": "0. Povratak na glavni izbornik",
+
+    "note_title": "=== BILJEŠKA",
+    "note_title_change": "%0. Promijeni naslov bilješke",
+    "note_add": "+. Dodaj novi redak",
+    "note_cross": "~№. Prekriži/odkriži redak",
+    "note_delete": "-№. Izbriši redak",
+    "note_back": "0. Povratak na izbornik bilješki",
+
+    "prompt_choice": "Vaš izbor: ",
+    "prompt_enter_note_title": "Unesite novi naslov bilješke: ",
+    "prompt_current_note_title": "Trenutni naslov bilješke: ",
+    "prompt_new_note_title": "Novi naslov bilješke (Esc — odustani): ",
+    "prompt_enter_text": "Unesite tekst retka: ",
+    "prompt_current_text": "Trenutni tekst: ",
+    "prompt_new_text": "Novi tekst (Esc — odustani): ",
+
+    "lang_menu_title": "=== ODABERITE JEZIK ===",
+    "lang_menu_back": "0. Povratak na glavni izbornik"
+}

@@ -1,0 +1,31 @@
+{ 
+    "main_menu_title": "=== MENU EWLIENI ===",
+    "main_menu_notes": "1. Iftaħ noti",
+    "main_menu_language": "2. Ibdel il-lingwa 🌐",
+    "main_menu_exit": "0. Ħruġ mill-programm",
+
+    "note_menu_title": "=== LISTA TAN-NOTI ===",
+    "note_menu_untitle": "Bla titlu",
+    "note_menu_add": "+. Żid nota ġdida",
+    "note_menu_cross": "~№. Ikkrossja/neħħi kross minn nota",
+    "note_menu_delete": "-№. Ħassar nota",
+    "note_menu_back": "0. Lura għall-menu ewlieni",
+
+    "note_title": "=== NOTA",
+    "note_title_change": "%0. Ibdel it-titlu tan-nota",
+    "note_add": "+. Żid linja ġdida",
+    "note_cross": "~№. Ikkrossja/neħħi kross minn linja",
+    "note_delete": "-№. Ħassar linja",
+    "note_back": "0. Lura għall-menu tan-noti",
+
+    "prompt_choice": "L-għażla tiegħek: ",
+    "prompt_enter_note_title": "Daħħal titlu ġdid tan-nota: ",
+    "prompt_current_note_title": "It-titlu kurrenti tan-nota: ",
+    "prompt_new_note_title": "Titlu ġdid tan-nota (Esc — ikkanċella): ",
+    "prompt_enter_text": "Daħħal test tal-linja: ",
+    "prompt_current_text": "It-test kurrenti: ",
+    "prompt_new_text": "Test ġdid (Esc — ikkanċella): ",
+
+    "lang_menu_title": "=== AGĦŻEL LINGWA ===",
+    "lang_menu_back": "0. Lura għall-menu ewlieni"
+}

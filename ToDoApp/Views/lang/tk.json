@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== ESASY MENÝU ===",
+    "main_menu_notes": "1. Belligi aç",
+    "main_menu_language": "2. Dili üýtget 🌐",
+    "main_menu_exit": "0. Programmadan çyk",
+
+    "note_menu_title": "=== BELLIGIŇ SANAWY ===",
+    "note_menu_untitle": "Ady ýok",
+    "note_menu_add": "+. Täze bellik goş",
+    "note_menu_cross": "~№. Belligi üstünden çykyň/çykarmak",
+    "note_menu_delete": "-№. Belligi pozuň",
+    "note_menu_back": "0. Esasy menýua dolan",
+
+    "note_title": "=== BELLIGI",
+    "note_title_change": "%0. Belligiň adyny üýtget",
+    "note_add": "+. Täze setir goş",
+    "note_cross": "~№. Setiri üstünden çykyň/çykarmak",
+    "note_delete": "-№. Setiri pozuň",
+    "note_back": "0. Belligiň menýusyna dolan",
+
+    "prompt_choice": "Saýlawyňyz: ",
+    "prompt_enter_note_title": "Täze belligiň adyny giriziň: ",
+    "prompt_current_note_title": "Häzirki belligiň ady: ",
+    "prompt_new_note_title": "Täze belligiň ady (Esc — ýatyrmak): ",
+    "prompt_enter_text": "Setir tekstini giriziň: ",
+    "prompt_current_text": "Häzirki tekst: ",
+    "prompt_new_text": "Täze tekst (Esc — ýatyrmak): ",
+
+    "lang_menu_title": "=== DILI SAÝLAŇ ===",
+    "lang_menu_back": "0. Esasy menýua dolan"
+}

@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== ASOSIY MENYU ===",
+    "main_menu_notes": "1. Eslatmalarni ochish",
+    "main_menu_language": "2. Tilni o‘zgartirish 🌐",
+    "main_menu_exit": "0. Dasturdan chiqish",
+
+    "note_menu_title": "=== ESLATMALAR RO‘YXATI ===",
+    "note_menu_untitle": "Nomsiz",
+    "note_menu_add": "+. Yangi eslatma qo‘shish",
+    "note_menu_cross": "~№. Eslatmani chizish/chizig‘ini olib tashlash",
+    "note_menu_delete": "-№. Eslatmani o‘chirish",
+    "note_menu_back": "0. Asosiy menyuga qaytish",
+
+    "note_title": "=== ESLATMA",
+    "note_title_change": "%0. Eslatma sarlavhasini o‘zgartirish",
+    "note_add": "+. Yangi qator qo‘shish",
+    "note_cross": "~№. Qatorni chizish/chizig‘ini olib tashlash",
+    "note_delete": "-№. Qatorni o‘chirish",
+    "note_back": "0. Eslatmalar menyusiga qaytish",
+
+    "prompt_choice": "Tanlovingiz: ",
+    "prompt_enter_note_title": "Yangi eslatma sarlavhasini kiriting: ",
+    "prompt_current_note_title": "Joriy eslatma sarlavhasi: ",
+    "prompt_new_note_title": "Yangi eslatma sarlavhasi (Esc — bekor qilish): ",
+    "prompt_enter_text": "Qator matnini kiriting: ",
+    "prompt_current_text": "Joriy matn: ",
+    "prompt_new_text": "Yangi matn (Esc — bekor qilish): ",
+
+    "lang_menu_title": "=== TILNI TANLANG ===",
+    "lang_menu_back": "0. Asosiy menyuga qaytish"
+}

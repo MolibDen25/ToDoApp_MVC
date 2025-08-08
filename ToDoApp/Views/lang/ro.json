@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== MENIU PRINCIPAL ===",
+    "main_menu_notes": "1. Deschide notițe",
+    "main_menu_language": "2. Schimbă limba 🌐",
+    "main_menu_exit": "0. Ieși din program",
+
+    "note_menu_title": "=== LISTA NOTIȚELOR ===",
+    "note_menu_untitle": "Fără titlu",
+    "note_menu_add": "+. Adaugă notiță nouă",
+    "note_menu_cross": "~№. Bifează/debifează notița",
+    "note_menu_delete": "-№. Șterge notița",
+    "note_menu_back": "0. Înapoi la meniul principal",
+
+    "note_title": "=== NOTIȚĂ ===",
+    "note_title_change": "%0. Schimbă titlul notiței",
+    "note_add": "+. Adaugă linie nouă",
+    "note_cross": "~№. Bifează/debifează linia",
+    "note_delete": "-№. Șterge linia",
+    "note_back": "0. Înapoi la meniul notițelor",
+
+    "prompt_choice": "Alegerea ta: ",
+    "prompt_enter_note_title": "Introdu titlul noii notițe: ",
+    "prompt_current_note_title": "Titlul actual al notiței: ",
+    "prompt_new_note_title": "Titlu nou pentru notiță (Esc — anulează): ",
+    "prompt_enter_text": "Introdu textul liniei: ",
+    "prompt_current_text": "Textul actual: ",
+    "prompt_new_text": "Text nou (Esc — anulează): ",
+
+    "lang_menu_title": "=== SELECTEAZĂ LIMBA ===",
+    "lang_menu_back": "0. Înapoi la meniul principal"
+}

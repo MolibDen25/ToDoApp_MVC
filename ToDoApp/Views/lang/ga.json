@@ -1,0 +1,31 @@
+{ 
+    "main_menu_title": "=== PRÍOMH-MHENÚ ===",
+    "main_menu_notes": "1. Oscail nótaí",
+    "main_menu_language": "2. Athraigh teanga 🌐",
+    "main_menu_exit": "0. Scoir den chlár",
+
+    "note_menu_title": "=== LIOSA NA NÓTAÍ ===",
+    "note_menu_untitle": "Gan teideal",
+    "note_menu_add": "+. Cuir nóta nua leis",
+    "note_menu_cross": "~№. Trasnó/baint trasnó as nóta",
+    "note_menu_delete": "-№. Scrios nóta",
+    "note_menu_back": "0. Fill ar an bpríomh-mhenu",
+
+    "note_title": "=== NÓTA",
+    "note_title_change": "%0. Athraigh teideal an nóta",
+    "note_add": "+. Cuir líne nua leis",
+    "note_cross": "~№. Trasnó/baint trasnó as líne",
+    "note_delete": "-№. Scrios líne",
+    "note_back": "0. Fill ar roghchlár na nótaí",
+
+    "prompt_choice": "Do rogha: ",
+    "prompt_enter_note_title": "Iontráil teideal nua don nóta: ",
+    "prompt_current_note_title": "Teideal reatha an nóta: ",
+    "prompt_new_note_title": "Teideal nua an nóta (Esc — cealaigh): ",
+    "prompt_enter_text": "Iontráil téacs líne: ",
+    "prompt_current_text": "Téacs reatha: ",
+    "prompt_new_text": "Téacs nua (Esc — cealaigh): ",
+
+    "lang_menu_title": "=== ROGHNAIGH TEANGA ===",
+    "lang_menu_back": "0. Fill ar an bpríomh-mhenu"
+}

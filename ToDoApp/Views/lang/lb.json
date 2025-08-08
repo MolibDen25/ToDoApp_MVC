@@ -1,0 +1,31 @@
+{ 
+    "main_menu_title": "=== HAAPTMENÜ ===",
+    "main_menu_notes": "1. Notizen opmaachen",
+    "main_menu_language": "2. Sprooch wiesselen 🌐",
+    "main_menu_exit": "0. Programm zoumaachen",
+
+    "note_menu_title": "=== NOTIZELËSCHT ===",
+    "note_menu_untitle": "Onbenannt",
+    "note_menu_add": "+. Nei Notiz derbäisetzen",
+    "note_menu_cross": "~№. Notiz duerchsträichen/zrécksetzen",
+    "note_menu_delete": "-№. Notiz läschen",
+    "note_menu_back": "0. Zeréck op Haaptmenü",
+
+    "note_title": "=== NOTIZ",
+    "note_title_change": "%0. Notiztitel änneren",
+    "note_add": "+. Nei Zeil derbäisetzen",
+    "note_cross": "~№. Zeil duerchsträichen/zrécksetzen",
+    "note_delete": "-№. Zeil läschen",
+    "note_back": "0. Zeréck op Notizenmenü",
+
+    "prompt_choice": "Är Auswiel: ",
+    "prompt_enter_note_title": "Gitt en neien Notiztitel an: ",
+    "prompt_current_note_title": "Aktuelle Notiztitel: ",
+    "prompt_new_note_title": "Neien Notiztitel (Esc — ofbriechen): ",
+    "prompt_enter_text": "Gitt Zeilentext an: ",
+    "prompt_current_text": "Aktuellen Text: ",
+    "prompt_new_text": "Neien Text (Esc — ofbriechen): ",
+
+    "lang_menu_title": "=== SPROOCH AUSWIELEN ===",
+    "lang_menu_back": "0. Zeréck op Haaptmenü"
+}

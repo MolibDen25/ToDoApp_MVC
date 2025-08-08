@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== PÕHIMENÜÜ ===",
+    "main_menu_notes": "1. Ava märkmed",
+    "main_menu_language": "2. Muuda keelt 🌐",
+    "main_menu_exit": "0. Välju programmist",
+
+    "note_menu_title": "=== MÄRKMETE NIMEKIRI ===",
+    "note_menu_untitle": "Pealkirjata",
+    "note_menu_add": "+. Lisa uus märge",
+    "note_menu_cross": "~№. Läbi kriipsuta/taasta märge",
+    "note_menu_delete": "-№. Kustuta märge",
+    "note_menu_back": "0. Tagasi põhimenüüsse",
+
+    "note_title": "=== MÄRGE",
+    "note_title_change": "%0. Muuda märkme pealkirja",
+    "note_add": "+. Lisa uus rida",
+    "note_cross": "~№. Läbi kriipsuta/taasta rida",
+    "note_delete": "-№. Kustuta rida",
+    "note_back": "0. Tagasi märkmete menüüsse",
+
+    "prompt_choice": "Teie valik: ",
+    "prompt_enter_note_title": "Sisestage uus märkme pealkiri: ",
+    "prompt_current_note_title": "Praegune märkme pealkiri: ",
+    "prompt_new_note_title": "Uus märkme pealkiri (Esc — tühista): ",
+    "prompt_enter_text": "Sisestage rea tekst: ",
+    "prompt_current_text": "Praegune tekst: ",
+    "prompt_new_text": "Uus tekst (Esc — tühista): ",
+
+    "lang_menu_title": "=== VALI KEEL ===",
+    "lang_menu_back": "0. Tagasi põhimenüüsse"
+}

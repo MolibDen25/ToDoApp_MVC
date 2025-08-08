@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== HLAVNÉ MENU ===",
+    "main_menu_notes": "1. Otvoriť poznámky",
+    "main_menu_language": "2. Zmeniť jazyk 🌐",
+    "main_menu_exit": "0. Ukončiť program",
+
+    "note_menu_title": "=== ZOZNAM POZNÁMOK ===",
+    "note_menu_untitle": "Bez názvu",
+    "note_menu_add": "+. Pridať novú poznámku",
+    "note_menu_cross": "~№. Preškrtnúť/odškrtnúť poznámku",
+    "note_menu_delete": "-№. Odstrániť poznámku",
+    "note_menu_back": "0. Späť na hlavné menu",
+
+    "note_title": "=== POZNÁMKA ===",
+    "note_title_change": "%0. Zmeniť názov poznámky",
+    "note_add": "+. Pridať nový riadok",
+    "note_cross": "~№. Preškrtnúť/odškrtnúť riadok",
+    "note_delete": "-№. Odstrániť riadok",
+    "note_back": "0. Späť do menu poznámok",
+
+    "prompt_choice": "Vaša voľba: ",
+    "prompt_enter_note_title": "Zadajte nový názov poznámky: ",
+    "prompt_current_note_title": "Aktuálny názov poznámky: ",
+    "prompt_new_note_title": "Nový názov poznámky (Esc — zrušiť): ",
+    "prompt_enter_text": "Zadajte text riadku: ",
+    "prompt_current_text": "Aktuálny text: ",
+    "prompt_new_text": "Nový text (Esc — zrušiť): ",
+
+    "lang_menu_title": "=== VÝBER JAZYKA ===",
+    "lang_menu_back": "0. Späť na hlavné menu"
+}

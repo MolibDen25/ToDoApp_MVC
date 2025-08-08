@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== MENU KRYESORE ===",
+    "main_menu_notes": "1. Hap shënimet",
+    "main_menu_language": "2. Ndrysho gjuhën 🌐",
+    "main_menu_exit": "0. Dil nga programi",
+
+    "note_menu_title": "=== LISTA E SHËNIMEVE ===",
+    "note_menu_untitle": "Pa titull",
+    "note_menu_add": "+. Shto shënim të ri",
+    "note_menu_cross": "~№. Shëno/fshi shënimin",
+    "note_menu_delete": "-№. Fshi shënimin",
+    "note_menu_back": "0. Kthehu te menuja kryesore",
+
+    "note_title": "=== SHËNIM",
+    "note_title_change": "%0. Ndrysho titullin e shënimit",
+    "note_add": "+. Shto rresht të ri",
+    "note_cross": "~№. Shëno/fshi rreshtin",
+    "note_delete": "-№. Fshi rreshtin",
+    "note_back": "0. Kthehu te menuja e shënimeve",
+
+    "prompt_choice": "Zgjedhja juaj: ",
+    "prompt_enter_note_title": "Shkruani titullin e ri të shënimit: ",
+    "prompt_current_note_title": "Titulli aktual i shënimit: ",
+    "prompt_new_note_title": "Titull i ri i shënimit (Esc — anulo): ",
+    "prompt_enter_text": "Shkruani tekstin e rreshtit: ",
+    "prompt_current_text": "Teksti aktual: ",
+    "prompt_new_text": "Tekst i ri (Esc — anulo): ",
+
+    "lang_menu_title": "=== ZGJIDH GJUHËN ===",
+    "lang_menu_back": "0. Kthehu te menuja kryesore"
+}

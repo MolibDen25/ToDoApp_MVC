@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== MENU PRINCIPALE ===",
+    "main_menu_notes": "1. Apri note",
+    "main_menu_language": "2. Cambia lingua 🌐",
+    "main_menu_exit": "0. Esci dal programma",
+
+    "note_menu_title": "=== ELENCO DELLE NOTE ===",
+    "note_menu_untitle": "Senza titolo",
+    "note_menu_add": "+. Aggiungi nuova nota",
+    "note_menu_cross": "~№. Barratura/ripristino nota",
+    "note_menu_delete": "-№. Elimina nota",
+    "note_menu_back": "0. Torna al menu principale",
+
+    "note_title": "=== NOTA",
+    "note_title_change": "%0. Cambia titolo della nota",
+    "note_add": "+. Aggiungi nuova riga",
+    "note_cross": "~№. Barratura/ripristino riga",
+    "note_delete": "-№. Elimina riga",
+    "note_back": "0. Torna al menu note",
+
+    "prompt_choice": "La tua scelta: ",
+    "prompt_enter_note_title": "Inserisci il nuovo titolo della nota: ",
+    "prompt_current_note_title": "Titolo attuale della nota: ",
+    "prompt_new_note_title": "Nuovo titolo della nota (Esc — annulla): ",
+    "prompt_enter_text": "Inserisci il testo della riga: ",
+    "prompt_current_text": "Testo attuale: ",
+    "prompt_new_text": "Nuovo testo (Esc — annulla): ",
+
+    "lang_menu_title": "=== SELEZIONA LINGUA ===",
+    "lang_menu_back": "0. Torna al menu principale"
+}

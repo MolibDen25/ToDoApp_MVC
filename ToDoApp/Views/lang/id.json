@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== MENU UTAMA ===",
+    "main_menu_notes": "1. Buka catatan",
+    "main_menu_language": "2. Ganti bahasa 🌐",
+    "main_menu_exit": "0. Keluar dari program",
+
+    "note_menu_title": "=== DAFTAR CATATAN ===",
+    "note_menu_untitle": "Tanpa judul",
+    "note_menu_add": "+. Tambah catatan baru",
+    "note_menu_cross": "~№. Coret/hapus coretan catatan",
+    "note_menu_delete": "-№. Hapus catatan",
+    "note_menu_back": "0. Kembali ke menu utama",
+
+    "note_title": "=== CATATAN ===",
+    "note_title_change": "%0. Ubah judul catatan",
+    "note_add": "+. Tambah baris baru",
+    "note_cross": "~№. Coret/hapus coretan baris",
+    "note_delete": "-№. Hapus baris",
+    "note_back": "0. Kembali ke menu catatan",
+
+    "prompt_choice": "Pilihan Anda: ",
+    "prompt_enter_note_title": "Masukkan judul catatan baru: ",
+    "prompt_current_note_title": "Judul catatan saat ini: ",
+    "prompt_new_note_title": "Judul catatan baru (Esc — batal): ",
+    "prompt_enter_text": "Masukkan teks baris: ",
+    "prompt_current_text": "Teks saat ini: ",
+    "prompt_new_text": "Teks baru (Esc — batal): ",
+
+    "lang_menu_title": "=== PILIH BAHASA ===",
+    "lang_menu_back": "0. Kembali ke menu utama"
+}

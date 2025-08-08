@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== MENÚ PRINCIPAL ===",
+    "main_menu_notes": "1. Abrir notas",
+    "main_menu_language": "2. Cambiar idioma 🌐",
+    "main_menu_exit": "0. Salir del programa",
+
+    "note_menu_title": "=== LISTA DE NOTAS ===",
+    "note_menu_untitle": "Sin título",
+    "note_menu_add": "+. Añadir nueva nota",
+    "note_menu_cross": "~№. Marcar/desmarcar nota",
+    "note_menu_delete": "-№. Eliminar nota",
+    "note_menu_back": "0. Volver al menú principal",
+
+    "note_title": "=== NOTA ===",
+    "note_title_change": "%0. Cambiar título de la nota",
+    "note_add": "+. Añadir nueva línea",
+    "note_cross": "~№. Marcar/desmarcar línea",
+    "note_delete": "-№. Eliminar línea",
+    "note_back": "0. Volver al menú de notas",
+
+    "prompt_choice": "Tu elección: ",
+    "prompt_enter_note_title": "Ingrese el título de la nueva nota: ",
+    "prompt_current_note_title": "Título actual de la nota: ",
+    "prompt_new_note_title": "Nuevo título de la nota (Esc — cancelar): ",
+    "prompt_enter_text": "Ingrese el texto de la línea: ",
+    "prompt_current_text": "Texto actual: ",
+    "prompt_new_text": "Nuevo texto (Esc — cancelar): ",
+
+    "lang_menu_title": "=== SELECCIONAR IDIOMA ===",
+    "lang_menu_back": "0. Volver al menú principal"
+}

@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== HUVUDMENY ===",
+    "main_menu_notes": "1. Öppna anteckningar",
+    "main_menu_language": "2. Byt språk 🌐",
+    "main_menu_exit": "0. Avsluta programmet",
+
+    "note_menu_title": "=== LISTA ÖVER ANTECKNINGAR ===",
+    "note_menu_untitle": "Utan titel",
+    "note_menu_add": "+. Lägg till ny anteckning",
+    "note_menu_cross": "~№. Markera/avmarkera anteckning",
+    "note_menu_delete": "-№. Ta bort anteckning",
+    "note_menu_back": "0. Tillbaka till huvudmenyn",
+
+    "note_title": "=== ANTECKNING",
+    "note_title_change": "%0. Ändra anteckningens titel",
+    "note_add": "+. Lägg till ny rad",
+    "note_cross": "~№. Markera/avmarkera rad",
+    "note_delete": "-№. Ta bort rad",
+    "note_back": "0. Tillbaka till anteckningsmenyn",
+
+    "prompt_choice": "Ditt val: ",
+    "prompt_enter_note_title": "Ange ny anteckningstitel: ",
+    "prompt_current_note_title": "Nuvarande anteckningstitel: ",
+    "prompt_new_note_title": "Ny anteckningstitel (Esc — avbryt): ",
+    "prompt_enter_text": "Ange radtext: ",
+    "prompt_current_text": "Nuvarande text: ",
+    "prompt_new_text": "Ny text (Esc — avbryt): ",
+
+    "lang_menu_title": "=== VÄLJ SPRÅK ===",
+    "lang_menu_back": "0. Tillbaka till huvudmenyn"
+}

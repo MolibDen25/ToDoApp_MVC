@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== PÄÄVALIKKO ===",
+    "main_menu_notes": "1. Avaa muistiinpanot",
+    "main_menu_language": "2. Vaihda kieli 🌐",
+    "main_menu_exit": "0. Poistu ohjelmasta",
+
+    "note_menu_title": "=== MUISTIINPANOJEN LISTA ===",
+    "note_menu_untitle": "Ei otsikkoa",
+    "note_menu_add": "+. Lisää uusi muistiinpano",
+    "note_menu_cross": "~№. Yliviivaa/poista yliviivaus muistiinpanosta",
+    "note_menu_delete": "-№. Poista muistiinpano",
+    "note_menu_back": "0. Takaisin päävalikkoon",
+
+    "note_title": "=== MUISTIINPANO",
+    "note_title_change": "%0. Vaihda muistiinpanon otsikko",
+    "note_add": "+. Lisää uusi rivi",
+    "note_cross": "~№. Yliviivaa/poista yliviivaus riviltä",
+    "note_delete": "-№. Poista rivi",
+    "note_back": "0. Takaisin muistiinpanovalikkoon",
+
+    "prompt_choice": "Valintasi: ",
+    "prompt_enter_note_title": "Anna uusi muistiinpanon otsikko: ",
+    "prompt_current_note_title": "Nykyinen muistiinpanon otsikko: ",
+    "prompt_new_note_title": "Uusi muistiinpanon otsikko (Esc — peruuta): ",
+    "prompt_enter_text": "Anna rivin teksti: ",
+    "prompt_current_text": "Nykyinen teksti: ",
+    "prompt_new_text": "Uusi teksti (Esc — peruuta): ",
+
+    "lang_menu_title": "=== VALITSE KIELI ===",
+    "lang_menu_back": "0. Takaisin päävalikkoon"
+}

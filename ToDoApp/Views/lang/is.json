@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== AÐALVALMYND ===",
+    "main_menu_notes": "1. Opna glósur",
+    "main_menu_language": "2. Breyta tungumáli 🌐",
+    "main_menu_exit": "0. Hætta í forriti",
+
+    "note_menu_title": "=== LISTI AF GLÓSUM ===",
+    "note_menu_untitle": "Ónefnt",
+    "note_menu_add": "+. Bæta við nýrri glósu",
+    "note_menu_cross": "~№. Strika/afstrika glósu",
+    "note_menu_delete": "-№. Eyða glósu",
+    "note_menu_back": "0. Til baka í aðalvalmynd",
+
+    "note_title": "=== GLÓSA",
+    "note_title_change": "%0. Breyta titli glósu",
+    "note_add": "+. Bæta við nýrri línu",
+    "note_cross": "~№. Strika/afstrika línu",
+    "note_delete": "-№. Eyða línu",
+    "note_back": "0. Til baka í glósuvalmynd",
+
+    "prompt_choice": "Val þitt: ",
+    "prompt_enter_note_title": "Sláðu inn nýjan titil glósu: ",
+    "prompt_current_note_title": "Núverandi titill glósu: ",
+    "prompt_new_note_title": "Nýr titill glósu (Esc — hætta við): ",
+    "prompt_enter_text": "Sláðu inn texta línu: ",
+    "prompt_current_text": "Núverandi texti: ",
+    "prompt_new_text": "Nýr texti (Esc — hætta við): ",
+
+    "lang_menu_title": "=== VELJA TUNGUMÁL ===",
+    "lang_menu_back": "0. Til baka í aðalvalmynd"
+}

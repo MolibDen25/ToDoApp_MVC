@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== مرکزی مینو ===",
+    "main_menu_notes": "1. نوٹس کھولیں",
+    "main_menu_language": "2. زبان تبدیل کریں 🌐",
+    "main_menu_exit": "0. پروگرام سے باہر نکلیں",
+
+    "note_menu_title": "=== نوٹس کی فہرست ===",
+    "note_menu_untitle": "بلا عنوان",
+    "note_menu_add": "+. نیا نوٹ شامل کریں",
+    "note_menu_cross": "~№. نوٹ کو کاٹیں/کاٹ ختم کریں",
+    "note_menu_delete": "-№. نوٹ حذف کریں",
+    "note_menu_back": "0. مرکزی مینو پر واپس جائیں",
+
+    "note_title": "=== نوٹ ===",
+    "note_title_change": "%0. نوٹ کا عنوان تبدیل کریں",
+    "note_add": "+. نئی سطر شامل کریں",
+    "note_cross": "~№. سطر کو کاٹیں/کاٹ ختم کریں",
+    "note_delete": "-№. سطر حذف کریں",
+    "note_back": "0. نوٹ مینو پر واپس جائیں",
+
+    "prompt_choice": "آپ کا انتخاب: ",
+    "prompt_enter_note_title": "نیا نوٹ کا عنوان درج کریں: ",
+    "prompt_current_note_title": "موجودہ نوٹ کا عنوان: ",
+    "prompt_new_note_title": "نیا نوٹ کا عنوان (Esc — منسوخ کریں): ",
+    "prompt_enter_text": "سطر کا متن درج کریں: ",
+    "prompt_current_text": "موجودہ متن: ",
+    "prompt_new_text": "نیا متن (Esc — منسوخ کریں): ",
+
+    "lang_menu_title": "=== زبان منتخب کریں ===",
+    "lang_menu_back": "0. مرکزی مینو پر واپس جائیں"
+}

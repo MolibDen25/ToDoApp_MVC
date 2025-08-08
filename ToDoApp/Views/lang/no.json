@@ -1,0 +1,31 @@
+{
+    "main_menu_title": "=== HOVEDMENY ===",
+    "main_menu_notes": "1. Åpne notater",
+    "main_menu_language": "2. Endre språk 🌐",
+    "main_menu_exit": "0. Avslutt programmet",
+
+    "note_menu_title": "=== LISTE OVER NOTATER ===",
+    "note_menu_untitle": "Uten tittel",
+    "note_menu_add": "+. Legg til nytt notat",
+    "note_menu_cross": "~№. Kryss av/fjern kryss på notat",
+    "note_menu_delete": "-№. Slett notat",
+    "note_menu_back": "0. Tilbake til hovedmeny",
+
+    "note_title": "=== NOTAT",
+    "note_title_change": "%0. Endre notattittel",
+    "note_add": "+. Legg til ny linje",
+    "note_cross": "~№. Kryss av/fjern kryss på linje",
+    "note_delete": "-№. Slett linje",
+    "note_back": "0. Tilbake til notatmeny",
+
+    "prompt_choice": "Ditt valg: ",
+    "prompt_enter_note_title": "Skriv inn ny notattittel: ",
+    "prompt_current_note_title": "Nåværende notattittel: ",
+    "prompt_new_note_title": "Ny notattittel (Esc — avbryt): ",
+    "prompt_enter_text": "Skriv inn linjetekst: ",
+    "prompt_current_text": "Nåværende tekst: ",
+    "prompt_new_text": "Ny tekst (Esc — avbryt): ",
+
+    "lang_menu_title": "=== VELG SPRÅK ===",
+    "lang_menu_back": "0. Tilbake til hovedmeny"
+}
